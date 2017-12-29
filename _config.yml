@@ -1,12 +1,13 @@
+url: "http://www.andrewbr.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
+title: Andrew Brandon
+description: >
+  Andrew Brandon: Software developer and musician
+
 email: theman@andrewbr.com
 github_username:  drbr
+twitter_username: drbr153
+
 markdown: kramdown
 timezone: America/Los_Angeles
-title: Drbr's Website
-twitter_username: drbr153
-url: "http://www.andrewbr.com" # the base hostname & protocol for your site
